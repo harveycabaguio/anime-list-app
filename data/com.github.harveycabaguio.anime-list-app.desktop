@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Anime List
+GenericName=Anime List
+Comment=Keeps track of your animus
+Categories=Utility;
+Exec=com.github.harveycabaguio.anime-list-app
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Anime;List;
